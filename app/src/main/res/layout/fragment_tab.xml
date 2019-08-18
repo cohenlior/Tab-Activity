@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+    android:background="@android:color/darker_gray"
+            android:paddingBottom="@dimen/horizontal_padding"
+            android:paddingLeft="@dimen/vertical_padding"
+            android:paddingRight="@dimen/vertical_padding"
+            android:paddingTop="@dimen/horizontal_padding">
+
+</RelativeLayout>
